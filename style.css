@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: normal 12pt Arial, Helvetica, sans-serif;
+    background-color: #96D8EA;
+    color: white;
+}
+
+h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    background-color: #65CAE6;
+    min-width: 300px;
+    max-width: 1000px;
+    padding: 30px;
+}
+
+input {
+    font: normal 12pt Arial;
+    width: 150px;
+    margin: auto;
+
+}
+
+#operador {
+    width: 50px;
+    margin: 5px;
+}
+
+div {
+    margin: 10px;
+}
