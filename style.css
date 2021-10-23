@@ -22,6 +22,12 @@ main {
     min-width: 300px;
     max-width: 1000px;
     padding: 30px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.247);
+}
+
+main p {
+    margin-bottom: 10px;
 }
 
 input {
@@ -53,4 +59,5 @@ input {
 
 div {
     margin: 10px 0px;
+    font-weight: bold;
 }
